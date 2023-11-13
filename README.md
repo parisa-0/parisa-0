@@ -8,7 +8,7 @@ I am currently learning Java and Spring boot with experience in SQL, Javascript,
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [parisanoushazaran@hotmail.com](mailto:parisanoushazaran@hotmail.com)
-* 🧠  I'm learning Java, Spring
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
