@@ -4,7 +4,7 @@ Hi 👋 My name is Parisa
 Senior Integration Engineer
 ---------------------------
 
-I am currently learning Java and Spring boot with experience in SQL, Javascript, REST API, Webservice
+I am currently learning Java with experience in SQL, Javascript, REST API, Webservice
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [parisanoushazaran@hotmail.com](mailto:parisanoushazaran@hotmail.com)
