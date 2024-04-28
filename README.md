@@ -8,7 +8,7 @@ I am currently learning Java with experience in SQL, Javascript, REST API, Webse
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [parisanoushazaran@hotmail.com](mailto:parisanoushazaran@hotmail.com)
-* 🧠  I'm learning Java, Javsacript & React
+* 🧠  I'm learning Java, Javascript & React
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
