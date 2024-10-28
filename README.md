@@ -6,7 +6,7 @@ Senior Integration Engineer
 
 I began my career in finance and accounting, but my journey took a turn when I joined a Microsoft partner as a consultant. It was there that I discovered my passion for technology and coding, particularly in backend development, where I enjoy tackling the unique challenges clients face.
 
-Currently, I specialize in debugging and enhancing features to deliver effective solutions for our clients. My passion lies in problem solving whether it's automating processes, providing valuable insights, or streamlining workflows, I strive to make people's lives easier through technology.
+Currently, I specialise in debugging and enhancing features to deliver effective solutions for our clients. My passion lies in problem solving whether it's automating processes, providing valuable insights, or streamlining workflows, I strive to make people's lives easier through technology.
 
 I believe in continuous learning, inspired by the principles in The Pragmatic Programmer, which is why I commit to mastering a new programming language each year. I started with Java, then moved on to React, and next year, I’m excited to dive into Rust. Currently, I'm also exploring Microsoft Azure, driven by a cloud-first mentality. Additionally, I’m delving into emerging technologies like AI, including prompt engineering, vector databases, and the ethical implications surrounding them.
 
