@@ -16,7 +16,7 @@ Ultimately, my motivation is to be at the forefront of technology, driving chang
 * ✉️  You can contact me at [parisanoushazaran@hotmail.com](mailto:parisanoushazaran@hotmail.com)
 * 🧠  I'm learning Java & React
 * 🤝  I'm open to collaborating on Projects
-* 💕  My current values: Learning (valuing knowledge and the ability to think critically). Improvement (a commitment to continuous education and personal growth). Contrition (a desire to give back and positively influence my community(.
+* 💕  My current values: Learning (valuing knowledge and the ability to think critically). Improvement (a commitment to continuous education and personal growth). Contrition (a desire to give back and positively influence my community).
 
 ### Skills
 
