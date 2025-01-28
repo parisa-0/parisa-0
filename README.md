@@ -13,7 +13,6 @@ I believe in continuous learning, inspired by the principles in The Pragmatic Pr
 Ultimately, my motivation is to be at the forefront of technology, driving change and making a significant impact as a problem solver.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [parisanoushazaran@hotmail.com](mailto:parisanoushazaran@hotmail.com)
 * 🧠  I'm learning Java & React
 * 🤝  I'm open to collaborating on Projects
 * 💕  My current values: Learning (valuing knowledge and the ability to think critically). Improvement (a commitment to continuous education and personal growth). Contribution (a desire to give back and positively influence my community).
