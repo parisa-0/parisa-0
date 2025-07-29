@@ -1,7 +1,7 @@
 Hi 👋 I'm Parisa
 =======================
 
-Senior Integration Engineer
+Full Stack Developer
 ---------------------------
 
 I began my career in finance and accounting, but my journey took a turn when I joined a Microsoft partner as a consultant. It was there that I discovered my passion for technology and coding, particularly in backend development, where I enjoy tackling the unique challenges clients face.
